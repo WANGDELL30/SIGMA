@@ -1,0 +1,12 @@
+# dataset & training outputs
+datasets/
+backend/datasets/
+backend/runs/
+*.pt
+
+# python cache
+__pycache__/
+*.pyc
+
+# env
+.env
